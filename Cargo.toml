@@ -11,7 +11,7 @@ exclude = ["LICENSE", "Makefile*", "test/**"]
 keywords = ["thrift"]
 
 [dependencies]
-"bichannels" = {git = "https://github.com/wilbertom/bichannels"}
+"bichannels" = {git = "https://github.com/okanon/rthrift"}
 byteorder = "~1.1.0"
 integer-encoding = "~1.0.4"
 log = "~0.3.8"
