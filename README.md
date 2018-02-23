@@ -1,4 +1,5 @@
 # Rust Thrift library
+[![Build Version](https://img.shields.io/crates/v/rthrift.svg)](https://crates.io/crates/rthrift)
 
 
 ## Installation
@@ -6,7 +7,7 @@
 
 This method support over Rust 1.7. :
 
-```cargo install --git https://github.com/okanon/rthrift.git```
+```cargo install rthrift```
 
 ### From source
 
