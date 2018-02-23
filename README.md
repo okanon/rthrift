@@ -1,6 +1,7 @@
 # Rust Thrift library
 [![Build Version](https://img.shields.io/crates/v/rthrift.svg)](https://crates.io/crates/rthrift)
-
+[![Build Status](https://travis-ci.org/okanon/rthrift.svg?branch=master)](https://travis-ci.org/okanon/rthrift/)
+[![Build Status]()]()
 
 ## Installation
 ### With `cargo install`
