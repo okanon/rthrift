@@ -20,7 +20,6 @@ homepage = "https://twitter.com/@xlyr_cs"
 documentation = "https://thrift.apache.org"
 readme = "README.md"
 keywords = ["thrift", "rthrift"]
-license = "Apache-2.0"
 license-file = "LICENSE"
 
 [lib]
