@@ -12,7 +12,7 @@ This method support over Rust 1.7. :
 
 ### From source
 
-1. Clone the repository git clone https://github.com/okanon/rthrift.git
+1. Clone the repository ```git clone https://github.com/okanon/rthrift.git```
 
 2. ```cd rthrift; cargo build --release```. The binary will now be in __./target/release/__
 
